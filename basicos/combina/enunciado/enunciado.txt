@@ -1,0 +1,9 @@
+Dados dois números N e P e uma lista de N números,
+exibir todas as combinações de P números possíveis.
+
+Entrada:
+
+Primeira linha: N P
+linhas 2 a N+!: cada um dos números da lista
+
+Saída: (N P) listas com as combinações dos números
