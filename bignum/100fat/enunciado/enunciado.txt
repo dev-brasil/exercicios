@@ -1,0 +1,5 @@
+Calcule 100! (todos os dígitos)
+
+Entrada: não há
+
+Saída: o valor de 100! seguido de nova linha
